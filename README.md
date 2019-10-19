@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# rails_tutorial
+>>>>>>> 1d1a39310ee3d55e9c73de0e388d527cb42cb563
